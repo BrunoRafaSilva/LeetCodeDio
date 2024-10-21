@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Contando Funcionários por Departamento/1.0.0": {
+        "runtime": {
+          "Contando Funcionários por Departamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contando Funcionários por Departamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

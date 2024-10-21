@@ -1,0 +1,14 @@
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\bin\Debug\net8.0\03-Calculando a Folha de Pagamento.exe
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\bin\Debug\net8.0\03-Calculando a Folha de Pagamento.deps.json
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\bin\Debug\net8.0\03-Calculando a Folha de Pagamento.runtimeconfig.json
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\bin\Debug\net8.0\03-Calculando a Folha de Pagamento.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\bin\Debug\net8.0\03-Calculando a Folha de Pagamento.pdb
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\03-Calculando a Folha de Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\03-Calculando a Folha de Pagamento.AssemblyInfoInputs.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\03-Calculando a Folha de Pagamento.AssemblyInfo.cs
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\03-Calculando a Folha de Pagamento.csproj.CoreCompileInputs.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\03-Calculando a Folha de Pagamento.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\refint\03-Calculando a Folha de Pagamento.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\03-Calculando a Folha de Pagamento.pdb
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\03-Calculando a Folha de Pagamento.genruntimeconfig.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\03-Calculando a Folha de Pagamento\obj\Debug\net8.0\ref\03-Calculando a Folha de Pagamento.dll

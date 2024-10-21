@@ -1,0 +1,14 @@
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\bin\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.exe
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\bin\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.deps.json
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\bin\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.runtimeconfig.json
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\bin\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\bin\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.pdb
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.AssemblyInfoInputs.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.AssemblyInfo.cs
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.csproj.CoreCompileInputs.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\refint\02-Avaliando o Desempenho Anual dos Funcionários.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.pdb
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\02-Avaliando o Desempenho Anual dos Funcionários.genruntimeconfig.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\02-Avaliando o Desempenho Anual dos Funcionários\obj\Debug\net8.0\ref\02-Avaliando o Desempenho Anual dos Funcionários.dll

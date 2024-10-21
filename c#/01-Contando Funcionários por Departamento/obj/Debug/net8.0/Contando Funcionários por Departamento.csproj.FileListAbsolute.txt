@@ -1,0 +1,14 @@
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\bin\Debug\net8.0\Contando Funcionários por Departamento.exe
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\bin\Debug\net8.0\Contando Funcionários por Departamento.deps.json
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\bin\Debug\net8.0\Contando Funcionários por Departamento.runtimeconfig.json
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\bin\Debug\net8.0\Contando Funcionários por Departamento.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\bin\Debug\net8.0\Contando Funcionários por Departamento.pdb
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\Contando Funcionários por Departamento.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\Contando Funcionários por Departamento.AssemblyInfoInputs.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\Contando Funcionários por Departamento.AssemblyInfo.cs
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\Contando Funcionários por Departamento.csproj.CoreCompileInputs.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\Contando Funcionários por Departamento.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\refint\Contando Funcionários por Departamento.dll
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\Contando Funcionários por Departamento.pdb
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\Contando Funcionários por Departamento.genruntimeconfig.cache
+c:\Users\conta\OneDrive\Documentos\LeetCodeDio\c#\01-Contando Funcionários por Departamento\obj\Debug\net8.0\ref\Contando Funcionários por Departamento.dll
